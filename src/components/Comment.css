@@ -1,0 +1,20 @@
+.comment {
+  display: flex;
+  margin: 20px 0;
+}
+
+.comment_perfil {
+
+}
+
+.comment_perfil img{
+  border-radius: 50%;
+  height: 40px;
+}
+
+.comment_content {
+  background-color: #EEEEEE;
+  margin-left: 15px;
+  border-radius: 15px;
+  padding: 15px;
+}

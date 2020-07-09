@@ -1,0 +1,27 @@
+.header {
+  background-color: #4A90E2;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header_logo {
+  height: 30px;
+}
+
+.header_perfil {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #fff;
+  font-weight: 600;
+}
+
+.header_myperfil {
+  margin: 0 10px;
+}
+
+.header_perfilImg{
+  height: 35px;
+}
